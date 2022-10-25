@@ -283,6 +283,7 @@ section {
 
 .about-stats {
   padding-bottom: 4rem;
+  text-align: center;
 }
 .about-stats .progress-bars {
   display: grid;
